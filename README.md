@@ -7,7 +7,7 @@ It features smooth interactions, intuitive controls, and a polished UI inspired 
 
 ## 🌐 Live Demo
 
-🚀 
+🚀 https://custom-video-player-zeta.vercel.app/
 
 
 ---
