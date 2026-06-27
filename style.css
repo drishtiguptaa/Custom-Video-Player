@@ -211,20 +211,3 @@ body {
 .fullscreen:hover {
   background-color: rgba(255, 255, 255, 0.1);
 }
-
-@media screen and (max-width: 600px) {
-  .player {
-    min-width: 0;
-    max-width: 95vw;
-  }
-
-  .volume.control {
-    display: none;
-  }
-  .time {
-    display: inline-flex;
-    align-items: center;
-    white-space: nowrap; 
-    font-size: 11px;    
-  }
-}
